@@ -1,0 +1,48 @@
+
+h2{
+    color: white;
+}
+.header{
+    height: 400px;
+    background-color: aquamarine;
+    background-image: url('messi-1805.jpg');
+    /* background-image: url('../Images/Rafi/Padma Tour/IMG_20221031_141544.jpg'); */
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    background-size: 200px;
+    /* background-position: center; */
+}
+
+h3{
+    font-size: xx-large;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bl2{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.bl, .bl2{
+    margin: 30px;
+    border: 10px solid red;
+    box-shadow: 10px 10px 20px blueviolet;
+}
+.cm{
+    border: 2px solid purple;
+    /* height: 100px;
+    display: block; */
+    margin: 20px;
+    display: inline;
+
+    /* margin: 20px;
+    display: inline-block; */
+}
+.sit{
+    border: 2px solid peru;
+    height: 50px;
+    display: inline-block;
+}
